@@ -24,7 +24,7 @@ public class Login
 		WebElement firstname = driver.findElement(By.xpath("//*[@id=\"u_0_m\"]"));
 		firstname.sendKeys("Harshada");
 			
-		driver.findElement(By.xpath("//div[@id='u_0_n']/div/input")).sendKeys("Tendulkar");;
+		driver.findElement(By.xpath("//div[@id='u_0_n']/div/input")).sendKeys("Tendulkar");
 			
 		WebElement emailid = driver.findElement(By.name("reg_email__"));
 		emailid.sendKeys("aaron.maven@gmail.com");
