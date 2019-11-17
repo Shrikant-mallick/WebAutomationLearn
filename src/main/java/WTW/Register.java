@@ -25,10 +25,10 @@ public class Register
 		
 		//Entering the Details
 		WebElement fst_name = driver.findElement(By.name("firstName"));
-		fst_name.sendKeys("A");
+		fst_name.sendKeys(RandomStringGen.getSaltString());
 		
 		WebElement last_name = driver.findElement(By.name("lastName"));
-		last_name.sendKeys("B");
+		last_name.sendKeys(RandomStringGen.getSaltString());
 		
 		WebElement phone_no = driver.findElement(By.name("phone"));
 		
