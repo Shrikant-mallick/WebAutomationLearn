@@ -15,7 +15,7 @@ public class MyStrings
 		
 		String s2 = "This is String2";
 		
-		String s3 = "String3";
+		String s3 = "ABCString3";
 		
 		System.out.println(s1.compareTo(s2));
 		

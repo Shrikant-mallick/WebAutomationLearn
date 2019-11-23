@@ -9,7 +9,7 @@ public class OperationsString
 		
 		st.indexsearch();
 		
-		compare cp =  new compare();
+		st.compare();
 
 	}
 
