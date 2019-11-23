@@ -8,6 +8,8 @@ public class OperationsString
 		MyStrings st = new MyStrings();
 		
 		st.indexsearch();
+		
+		compare cp =  new compare();
 
 	}
 
