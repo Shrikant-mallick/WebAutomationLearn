@@ -66,6 +66,8 @@ public class MyStrings
 		
 		System.out.println("StartWith:" + b3.startsWith("Sh",7));
 		
+		//Hello
+		
 		
 		
 		

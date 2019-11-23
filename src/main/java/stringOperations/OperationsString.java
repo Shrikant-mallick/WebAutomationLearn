@@ -11,7 +11,7 @@ public class OperationsString
 		
 		st.compare();
 		
-		st.StringMethods(10);
+		st.StringMethods(20);
 
 	}
 
