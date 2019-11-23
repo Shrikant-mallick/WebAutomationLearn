@@ -10,6 +10,8 @@ public class OperationsString
 		st.indexsearch();
 		
 		st.compare();
+		
+		st.StringMethods(10);
 
 	}
 
