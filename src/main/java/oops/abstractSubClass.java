@@ -27,6 +27,8 @@ public class abstractSubClass extends AbstractMethod
 		
 		ab.a2();
 		
+		ab.a3();
+		
 		ab.a1();
 		
 	}
