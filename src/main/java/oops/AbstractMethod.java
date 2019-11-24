@@ -7,6 +7,8 @@ public abstract class AbstractMethod
 	public void a3()
 	{
 		System.out.println("a3 method");
+		
+		//hello
 	}
 }
 

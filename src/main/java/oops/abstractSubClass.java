@@ -23,6 +23,8 @@ public class abstractSubClass extends AbstractMethod
 		
 		abs.a1();
 		
+		//hello
+		
 		abstractSubClass ab = new abstractSubClass();
 		
 		ab.a2();
