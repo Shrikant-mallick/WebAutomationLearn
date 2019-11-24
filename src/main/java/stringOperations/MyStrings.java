@@ -52,6 +52,8 @@ public class MyStrings
 		
 		String b3 = "  Shrikant Mallick  ";
 		
+		String b4 = "Shrikant  ";
+		
 		System.out.println("SubString with one parameter:"+ b1.substring(4));
 		
 		System.out.println("SubString2:"+ b1.substring(0,4));
@@ -60,15 +62,13 @@ public class MyStrings
 		
 		System.out.println("LowerCase" + b2.toUpperCase());
 		
-		System.out.println("Trim"+ b3.trim());
+		System.out.println("Trim : "+ b4.trim()+"..");
 		
 		System.out.println("StartWith:" + b3.startsWith("Sh") + "EndsWith:"+ b3.endsWith("ick"));
 		
 		System.out.println("StartWith:" + b3.startsWith("Sh",7));
 		
 		//Hello
-		
-		
 		
 		
 	}
