@@ -15,10 +15,10 @@ public class MyStrings
 	
 	public void compare()
 	{
+		
 		String s1 = "This is String1.";
 		
 		String s2 = "This is String2";
-		
 		
 		System.out.println("Comparing string : "+s1.compareTo(s2));
 		
@@ -67,9 +67,7 @@ public class MyStrings
 		System.out.println("StartWith:" + b3.startsWith("Sh") + "EndsWith:"+ b3.endsWith("ick"));
 		
 		System.out.println("StartWith:" + b3.startsWith("Sh",7));
-		
-		//Hello
-		
+				
 		
 	}
 	
