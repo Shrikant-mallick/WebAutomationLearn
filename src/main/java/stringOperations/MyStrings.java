@@ -36,6 +36,8 @@ public class MyStrings
 		
 		a1 = this.a;
 		
+		//tp comment
+		
 		int a2 = MyStrings.a;
 		
 		System.out.println("String Variable : " + a1);
