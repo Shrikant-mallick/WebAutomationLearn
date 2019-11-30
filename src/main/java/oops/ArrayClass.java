@@ -1,6 +1,6 @@
 package oops;
 
-public class ArrayClass 
+public class ArrayClass extends OverrideMain
 {
 	public void array()
 	{
@@ -19,5 +19,11 @@ public class ArrayClass
 		ArrayClass ac = new ArrayClass();
 		
 		ac.array();
+		
+		OverrideMain om = new ArrayClass();
+		
+		om.a1();
+		
+		om.b1(10);
 	}
 }
