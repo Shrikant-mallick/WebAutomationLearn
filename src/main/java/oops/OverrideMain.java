@@ -23,8 +23,6 @@ public class OverrideMain extends MethodOverriding
 		
 		System.out.println("Khaduuuuussssssssssssssssssss................");
 		
-		
-
 	}
 
 }
