@@ -52,7 +52,7 @@ public class MyStrings
 		
 		System.out.println("Ignore Case :" + b1.equalsIgnoreCase("abcd"));
 		
-		String b3 = "Shrikant Mallick";
+		String b3 = "  Shrikant Mallick  ";
 		
 		String b4 = "Shrikant  ";
 		
