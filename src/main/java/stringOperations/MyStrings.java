@@ -36,7 +36,7 @@ public class MyStrings
 		
 		a1 = this.a;
 		
-		//tp comment
+		//time pass comment
 		
 		int a2 = MyStrings.a;
 		
